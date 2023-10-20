@@ -1,4 +1,4 @@
 # gitproject
-<br>  
-Author M.Malik
-This is my first GitHub Repository
+ This is my first GitHub Repository
+<br> 
+ Author M.Malik
